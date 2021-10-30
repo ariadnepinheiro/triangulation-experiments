@@ -1,5 +1,8 @@
-// Utilizando a representação paramétrica, escreva um algoritmo para gerar uma triangulação para um cilindro de altura 2,
-// cuja base é um círculo de raio 3 posicionado na origem do plano XY
+"""
+Utilizando a representação paramétrica, escreva um algoritmo para 
+gerar uma triangulação para um cilindro de altura 2, cuja base é u
+m círculo de raio 3 posicionado na origem do plano XY
+"""
 
 from OpenGL.GL import *
 
