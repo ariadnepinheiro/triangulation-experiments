@@ -1,6 +1,8 @@
-// Um programador pretende implementar uma função para desenhar uma curva implícita definida pela equação f(x, y) = 5. 
-// Para ajudar este programador, você deve escrever o algoritmo Marching Triangles, assumindo que os valores x e y 
-// variam entre [− 2, 2] e a grade utilizada tem resolução 20 x 50.
+""" 
+Um programador pretende implementar uma função para desenhar uma curva implícita definida pela equação f(x, y) = 5. 
+Para ajudar este programador, você deve escrever o algoritmo Marching Triangles, assumindo que os valores x e y 
+variam entre [− 2, 2] e a grade utilizada tem resolução 20 x 50.
+"""
 
 from OpenGL.GL import *
 
